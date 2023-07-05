@@ -1,9 +1,11 @@
 ## Greetings!
-- 👋 Hi, I’m @JonaOmara
-- 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning more in AI
-- 💞️ I’m looking to collaborate on NLP and Computer vision research
+- 👋 Hi, I’m Jonathan Omara
+- 👀 I’m interested in Data science, machine learning and AI
+- 🌱 I’m currently learning more in machine learning and Cyber Security 
+- 💞️ I’m looking to collaborate on Data science, NLP and Computer vision research
 - 📫 How to reach me omarajonathan@gmail.com
+- 📫 Linkedin [Profile](https://www.linkedin.com/in/jonaomara/)
+- 📫 Kaggle [Profile](https://www.kaggle.com/jonathanomara) 
 ## Publications
 * [A field-based recommender system for crop disease detection using machine learning](https://doi.org/10.3389/frai.2023.1010804)
 ## Projects
@@ -17,6 +19,7 @@
 ### Dashboards 
 - [Sales Analytics Dashboard](https://github.com/JonaOmara/Sales-Analytics-dashboard)
 - [HR Analytics Dashboard](https://github.com/JonaOmara/HR-PowerBI-Dashboard)
+- [Warehouse Analytics Dashboard](https://github.com/JonaOmara/Warehouse-Dashboard)
 ### Android(Kotlin) and Java
 - [Earthquake Data visualization using Java](https://github.com/JonaOmara/Earthquake-Data-Visualization)
 - [Zoo App (Kotlin)](https://github.com/JonaOmara/Zoo)
