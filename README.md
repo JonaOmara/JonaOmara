@@ -11,9 +11,10 @@
 ## Projects
 ### Collaborations
 * [Ivy Unified ML Framework](https://github.com/JonaOmara/ivy)
-### NLP and Computer Vision 
+### Data Science, NLP and Computer Vision 
 - [Agronomic Diagnostics Feedback Tool](https://github.com/JonaOmara/AgroDF-Tool)
 - [Sentiment Web Application](https://github.com/JonaOmara/Sentiment-Web-App)
+- [Commandline Data analysis using Python](https://github.com/JonaOmara/pdsnd_github)
 ### Datasets
 - [Agronomic Question and Answer Dataset](https://github.com/JonaOmara/AgroQA-Dataset)
 ### Dashboards 
