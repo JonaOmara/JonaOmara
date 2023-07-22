@@ -1,7 +1,7 @@
 ## Greetings!
 - 👋 Hi, I’m Jonathan Omara
 - 👀 I’m interested in Data science, machine learning and AI
-- 🌱 I’m currently learning more in machine learning and Cyber Security 
+- 🌱 I’m currently learning more in machine learning and NLP 
 - 💞️ I’m looking to collaborate on Data science, NLP and Computer vision research
 - 📫 How to reach me omarajonathan@gmail.com
 - 📫 Linkedin [Profile](https://www.linkedin.com/in/jonaomara/)
