@@ -15,6 +15,7 @@
 - [Agronomic Diagnostics Feedback Tool](https://github.com/JonaOmara/AgroDF-Tool)
 - [Sentiment Web Application](https://github.com/JonaOmara/Sentiment-Web-App)
 - [Commandline Data analysis using Python](https://github.com/JonaOmara/pdsnd_github)
+- [Web Scrapping Python Jobs](https://github.com/JonaOmara/Web-Scrapping-Python-Jobs)
 ### Datasets
 - [Agronomic Question and Answer Dataset](https://github.com/JonaOmara/AgroQA-Dataset)
 ### Dashboards 
